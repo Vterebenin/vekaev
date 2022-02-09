@@ -1,6 +1,6 @@
 <code>🎓 Student: KPI</code>
 <code>🎪 Group: IM-11</code>
-<code>👷 Speciality: Software engineer</code>
+<code>👷 Speciality: Software Engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](https://github.com/AlexanderPixel/VacanciesReviewSystem)</code><br>
 <code>🧑‍💻 Languages: C++, C#, T-SQL</code>

@@ -12,6 +12,6 @@
 
 <code>📢 Public [talks: 0](TALKS.md)</code>
 
-<code>💬 telegram: [@alexander_pixel](https://t.me/alexander_pixel)</code>
+<code>💬 Telegram: [@alexander_pixel](https://t.me/alexander_pixel)</code>
 
 <code>📫 [tkachenkosasha17@gmail.com](mailto:tkachenkosasha17@gmail.com)</code>

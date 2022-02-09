@@ -6,7 +6,7 @@
 
 <code>💡 [Skills](SKILLS.md)</code>
 
-<code>🧻 Current [project](PROJECT.md)</code><br>
+<code>🧻 Current [project](https://github.com/AlexanderPixel/VacanciesReviewSystem)</code><br>
 
 <code>🧑‍💻 Languages: C++, C#, T-SQL</code>
 

@@ -12,6 +12,6 @@
 
 <code>📢 Public [talks: 0](TALKS.md)</code>
 
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@alexander_pixel](https://t.me/alexander_pixel)</code>
 
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [tkachenkosasha17@gmail.com](mailto:tkachenkosasha17@gmail.com)</code>
